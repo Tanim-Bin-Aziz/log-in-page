@@ -1,0 +1,24 @@
+.bb {
+    text-align: center;
+    background-color: #dac292;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+input {
+    margin: 3px;
+    border-radius: 5px;
+    height: 30px;
+    width: 280px;
+}
+
+.btn {
+    width: 200px;
+    height: 40px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.bdy {
+    padding: 80px;
+}
